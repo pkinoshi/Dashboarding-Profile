@@ -21,7 +21,7 @@ Could signal positive policy changes or changing societal dynamics, but requires
 
 Crime increased steadily from 2012 to 2017, followed by fluctuation until a sharp drop in 2023.
 The COVID-19 pandemic triggered noticeable disruptions, evident in fluctuating crime rates post-2020.
-💡 Recommendations for Proactive Crime Prevention:
+💡 #Recommendations for Proactive Crime Prevention:
 🔹 Focus on High-Risk Regions: Allocate additional resources to the South East and Yorkshire where crime rates are highest.
 🔹 Theft Prevention Campaigns: Prioritize public awareness and neighborhood security programs to address theft trends.
 🔹 Resource Optimization: Investigate London's lower crime numbers to understand possible best practices in crime reduction.
