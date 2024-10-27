@@ -1,10 +1,12 @@
 🔍 #UK Crime Analysis Insights & Recommendations (2012-2023) 🕵️‍♂️
 
 🚨 Key Insights from the Dashboard:
+
 1️⃣ Metropolitan Police Dominates Crime Reporting
 
 9M crimes recorded by the Metropolitan Police alone—nearly 3x more than Greater Manchester (3.1M).
 Suggests higher crime rates or more efficient reporting in central urban areas.
+
 2️⃣ Regional Disparities in Crime
 
 South East leads with 12.9M crimes, followed by Yorkshire and the Humber with 10.7M.
