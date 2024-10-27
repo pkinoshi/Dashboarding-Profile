@@ -24,9 +24,7 @@ Could signal positive policy changes or changing societal dynamics, but requires
 
 5️⃣ Annual Crime Rate Trends
 
-Crime increased steadily from 2012 to 2017, followed by fluctuation until a sharp drop in 2023.
-
-The COVID-19 pandemic triggered noticeable disruptions, evident in fluctuating crime rates post-2020.
+Crime increased steadily from 2012 to 2017, followed by fluctuation until a sharp drop in 2023. The COVID-19 pandemic triggered noticeable disruptions, evident in fluctuating crime rates post-2020.
 
 💡 __Recommendations for Proactive Crime Prevention:__
 
