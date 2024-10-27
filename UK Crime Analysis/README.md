@@ -1,4 +1,4 @@
-🔍 #UK Crime Analysis Insights & Recommendations (2012-2023) 🕵️‍♂️
+🔍 **UK Crime Analysis Insights & Recommendations (2012-2023)** 🕵️‍♂️
 
 🚨 Key Insights from the Dashboard:
 
@@ -28,12 +28,14 @@ Crime increased steadily from 2012 to 2017, followed by fluctuation until a shar
 
 The COVID-19 pandemic triggered noticeable disruptions, evident in fluctuating crime rates post-2020.
 
-💡 #Recommendations for Proactive Crime Prevention:
+💡 __Recommendations for Proactive Crime Prevention:__
 
 🔹 Focus on High-Risk Regions: Allocate additional resources to the South East and Yorkshire where crime rates are highest.
 
 🔹 Theft Prevention Campaigns: Prioritize public awareness and neighborhood security programs to address theft trends.
 
 🔹 Resource Optimization: Investigate London's lower crime numbers to understand possible best practices in crime reduction.
+
 🔹 Post-2023 Monitoring: Keep a close watch on the 2023 trend to determine if the decline is sustainable or a temporary anomaly.
+
 🔹 Leverage Data-Driven Strategies: Implement predictive models to identify potential hotspots and pre-empt criminal activity.
